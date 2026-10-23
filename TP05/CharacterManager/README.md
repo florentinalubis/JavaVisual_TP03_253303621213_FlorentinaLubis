@@ -86,3 +86,48 @@ data duplikat, pembuatan salinan daftar, serta analisis perilaku
 reference. Saya juga menambahkan fitur analitik untuk menghitung
 jumlah karakter berdasarkan tipe dan menguji implementasinya
 melalui program utama.
+
+
+## TP8 — Character Manager Sprint #3
+
+### A. Implementasi MainWindow
+
+MainWindow merupakan GUI berbasis Java Swing yang menampilkan
+daftar karakter secara dinamis. Jendela menggunakan JFrame,
+sedangkan JPanel dan JLabel digunakan untuk menyusun informasi
+karakter serta statistik rata-rata level.
+
+### B. Data Dinamis dan Mini-Challenge
+
+Program menampilkan minimal lima karakter melalui perulangan.
+Statistik rata-rata level dihitung berdasarkan seluruh data
+karakter yang dikelola oleh CharacterManager. Ketika data berubah,
+tampilan dan statistik diperbarui agar tetap sesuai.
+
+### C. Screenshot
+
+#### Sebelum Perubahan
+![alt text](image.png)
+
+#### Sesudah Perubahan
+![alt text](image-2.png)
+
+### D. Alur Data dan MVC
+
+Main membuat objek CharacterManager dan menyiapkan data karakter.
+CharacterManager mengelola koleksi karakter serta menyediakan
+perhitungan rata-rata level. MainWindow mengambil data tersebut
+dan menampilkannya menggunakan komponen Swing. Pembagian ini
+mendukung prinsip MVC karena pengelolaan data dan tampilan
+memiliki tanggung jawab yang berbeda.
+
+### Karakter Baru
+
+| Nama | Tipe | Level | Alasan |
+|---|---|---:|---|
+| Gimli | WARRIOR | 15 | Mewakili karakter petarung |
+| Arwen | MAGE | 20 | Menambah variasi karakter |
+
+### Google Docs — Analisis GUI dan MVC
+
+[Tempelkan link Google Docs Bagian D di sini](https://docs.google.com/document/d/1-jqboEXK6qoWMB0FwT9pNbAtHx-jIm4G1cgsdyxsMtA/edit?usp=sharing)

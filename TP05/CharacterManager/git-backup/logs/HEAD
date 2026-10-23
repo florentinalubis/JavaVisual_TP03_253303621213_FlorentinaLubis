@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 f4cbd3c4d33f6a2d15f2419cc5af7a81b7bf2e54 Florentina Lubis <florentinalubis143@gmail.com> 1791962448 +0700	commit (initial): Add Character Manager project
+f4cbd3c4d33f6a2d15f2419cc5af7a81b7bf2e54 0000000000000000000000000000000000000000 Florentina Lubis <florentinalubis143@gmail.com> 1791962482 +0700	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 f4cbd3c4d33f6a2d15f2419cc5af7a81b7bf2e54 Florentina Lubis <florentinalubis143@gmail.com> 1791962482 +0700	Branch: renamed refs/heads/master to refs/heads/main
+f4cbd3c4d33f6a2d15f2419cc5af7a81b7bf2e54 91d211fb929f6dfe90109fbd17c9de09f3d74cee Florentina Lubis <florentinalubis143@gmail.com> 1791963346 +0700	commit: Add README and screenshot
+91d211fb929f6dfe90109fbd17c9de09f3d74cee 6db8e58c029f0d7c2aa5f72173bb9e1c4c31d421 Florentina Lubis <florentinalubis143@gmail.com> 1791963656 +0700	commit: Fix Google Docs link
+6db8e58c029f0d7c2aa5f72173bb9e1c4c31d421 e7791b2e12df675af98cf57bc9288d9df1dc21b6 Florentina Lubis <florentinalubis143@gmail.com> 1791963770 +0700	commit: Improve README formatting
+e7791b2e12df675af98cf57bc9288d9df1dc21b6 6c1ca8e3d48f4cc20afc7c57e4e504394d9d224e Florentina Lubis <florentinalubis143@gmail.com> 1791964640 +0700	commit: Improve README formatting
+6c1ca8e3d48f4cc20afc7c57e4e504394d9d224e 77018f5055bcc3c2cefe703fd3e59d6b6d4a6fcd Florentina Lubis <florentinalubis143@gmail.com> 1791964728 +0700	commit: Improve README formatting
+77018f5055bcc3c2cefe703fd3e59d6b6d4a6fcd bce7766fd7fdd3369b8524e2c876fbd53e0be124 Florentina Lubis <florentinalubis143@gmail.com> 1791965055 +0700	commit: Fix Google Docs link
+bce7766fd7fdd3369b8524e2c876fbd53e0be124 910df7305d76167155ea84de982a82beb55bc2fb Florentina Lubis <florentinalubis143@gmail.com> 1791965250 +0700	commit: Make Google Docs link clickable
+910df7305d76167155ea84de982a82beb55bc2fb b16c77983381b2de2dae7207fa6e94d3834b6aeb Florentina Lubis <florentinalubis143@gmail.com> 1791965971 +0700	commit: Make Google Docs link clickable
+b16c77983381b2de2dae7207fa6e94d3834b6aeb f50568189c3ce5435a0466ee50019ba41d289925 Florentina Lubis <florentinalubis143@gmail.com> 1792050966 +0700	commit: Complete AP6 CharacterManager features
+f50568189c3ce5435a0466ee50019ba41d289925 e67904828463aff4eba5702fb5a96be383a0047e Florentina Lubis <florentinalubis143@gmail.com> 1792137145 +0700	commit: TP03 dan TP05 CharacterManager
