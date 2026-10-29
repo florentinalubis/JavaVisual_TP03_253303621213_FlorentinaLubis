@@ -145,10 +145,12 @@ Aplikasi menggunakan `AppTheme.java` untuk mengatur warna, font, dan border agar
 ### C. Screenshot
 
 **Sebelum perubahan (Sprint #3)**
-![alt text](image-4.png)
+
+![Screenshot sebelum](![alt text](image-5.png))
 
 **Sesudah perubahan (Sprint #4)**
-![alt text](image-3.png)
+
+![Screenshot sesudah](![alt text](image-6.png))
 
 ### D. Analisis MVC
 Pengaturan tampilan ditempatkan di `AppTheme.java` dan `MainWindow.java` karena keduanya merupakan bagian dari View. Sementara itu, `Character` tetap berfungsi sebagai Model yang menyimpan data karakter, seperti nama, level, dan role. Pemisahan ini membuat kode lebih mudah dirawat dan perubahan desain tidak mengharuskan perubahan struktur data karakter.
