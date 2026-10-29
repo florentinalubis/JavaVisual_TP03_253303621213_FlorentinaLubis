@@ -131,3 +131,27 @@ memiliki tanggung jawab yang berbeda.
 ### Google Docs — Analisis GUI dan MVC
 
 [Tempelkan link Google Docs Bagian D di sini](https://docs.google.com/document/d/1-jqboEXK6qoWMB0FwT9pNbAtHx-jIm4G1cgsdyxsMtA/edit?usp=sharing)
+
+
+## TP10 — Character Manager Sprint #4
+
+### A. Implementasi Tema
+Aplikasi menggunakan `AppTheme.java` untuk mengatur warna, font, dan border agar tampilan konsisten. Warna kartu karakter disesuaikan dengan role masing-masing. Karakter dengan level minimal 5 ditampilkan dengan teks tebal berwarna emas.
+
+### B. Properti Tambahan
+1. **Tooltip karakter:** menampilkan nama, role, dan level ketika pengguna mengarahkan kursor ke kartu karakter.
+2. **Penonaktifan level 1:** karakter dengan level 1 dinonaktifkan untuk membedakannya dari karakter yang sudah berkembang.
+
+### C. Screenshot
+
+**Sebelum perubahan (Sprint #3)**
+![alt text](image-4.png)
+
+**Sesudah perubahan (Sprint #4)**
+![alt text](image-3.png)
+
+### D. Analisis MVC
+Pengaturan tampilan ditempatkan di `AppTheme.java` dan `MainWindow.java` karena keduanya merupakan bagian dari View. Sementara itu, `Character` tetap berfungsi sebagai Model yang menyimpan data karakter, seperti nama, level, dan role. Pemisahan ini membuat kode lebih mudah dirawat dan perubahan desain tidak mengharuskan perubahan struktur data karakter.
+
+### E. Google Docs
+Link analisis properti dan MVC: **[https://docs.google.com/document/d/1Qvs1BCR-A1_fuWY_5GIL0TsltsbO51DlbijHHL1sEAU/edit?usp=sharing]**
